@@ -47,11 +47,11 @@ function JardimScreen() {
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
 
 <Text style={{ fontSize: 25, fontWeight: 'bold', color: '#333' }}>
-                   Escolhemos essa parte porque é legal e bonita!
+                   Escolhemos essa parte porque é legal, bonita e os macacos são muitos legais!
                   </Text>
                   
       <Image
-       source={require('./1.jpg')}
+       source={require('./5.jpg')}
         style={{ width: 800, height:600  }}
       />
 
@@ -64,10 +64,10 @@ function MesaScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
       <Text style={{ fontSize: 25, fontWeight: 'bold', color: '#333' }}>
-                  A biblioteca tem muitas atividades legais e a interação social lá é intensa
+                  Escolhemos a mesa pq é um lugar confortavel e com muito ar livre para descansarmos!
                   </Text>
       <Image
-          source={require('./2.jpg')}
+          source={require('./4.jpg')}
           style={{ width: 800, height:600  }}
       />
     </View>
@@ -79,10 +79,10 @@ function BancosScreen() {
     
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
       <Text style={{ fontSize: 2, fontWeight: 'bold', color: '#333' }}>
-                   A biblioteca merece duas fotos porque é muito bacana
+                   Os Bancos são um dos melhores lugares da escola para se descansar, problema é só o calor, as vezes.
                   </Text>
       <Image
-        source={require('./3.jpg')}
+        source={require('./2.jpg')}
         style={{ width: 800, height:600  }}
       />
     </View>
@@ -93,10 +93,10 @@ function BibliotecaScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
       <Text style={{ fontSize: 25, fontWeight: 'bold', color: '#333' }}>
-                  Almoçar nessa parte é supimpa porque podemos refletir comer e desfrutar da nossa bela vida
+                  A biblioteca é fresca, tem jogos, livros e quando vamos la sempre tem uma atividade a parte para fazermos.
                   </Text>
       <Image
-        source={require('./4.jpg')}
+        source={require('./1.jpg')}
         style={{ width: 800, height:600  }}
       />
     </View>
@@ -107,10 +107,10 @@ function SaidaScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
       <Text style={{ fontSize: 25, fontWeight: 'bold', color: '#333' }}>
-                 Essa parte da saida é bonita e nos traz o pensamentos de uma das melhores partes do SENAI
+                 Ultimamente não vamos muito la, mas no começo do ano passado era nosso lugar favorito!
                   </Text>
       <Image
-        source={require('./5.jpg')}
+        source={require('./3.jpg')}
         style={{ width: 800, height:600  }}
       />
     </View>
